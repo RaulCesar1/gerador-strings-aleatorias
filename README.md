@@ -1,0 +1,1 @@
+# gerador-strings-aleatorias
